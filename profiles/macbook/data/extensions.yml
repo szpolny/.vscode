@@ -1,0 +1,18 @@
+disabled: []
+enabled:
+  - id: amazonwebservices.codewhisperer-for-command-line-companion
+    uuid: null
+  - id: arcticicestudio.nord-visual-studio-code
+    uuid: 6f35c257-7fd5-4bc2-9cd1-01976589c17a
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: drcika.apc-extension
+    uuid: c445982f-a615-472b-a90e-0a9edd88b8e8
+  - id: equinusocio.vsc-material-theme-icons
+    uuid: 6959958f-be4d-42c4-8aa4-dc2c2f086b0a
+  - id: sleistner.vscode-fileutils
+    uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
+  - id: usernamehw.errorlens
+    uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

@@ -1,0 +1,55 @@
+{
+  // UI
+  "apc.electron": {
+    "titleBarStyle": "hidden",
+    "trafficLightPosition": {
+      "x": 15,
+      "y": 15,
+    }
+  },
+  "apc.font.family": "JetBrainsMono Nerd Font Mono",
+  "apc.monospace.font.family": "JetBrainsMono Nerd Font Mono",
+  "apc.activityBar": {
+    "position": "bottom",
+    "size": 30,
+    "itemSize": 30,
+    "itemMargin": 10
+  },
+  "apc.header": {
+    "height": 30
+  },
+  "apc.sidebar.titlebar": {
+    "height": 30,
+    "fontSize": 12
+  },
+  "apc.statusBar": {
+    "position": "editor-bottom",
+    "height": 30,
+    "fontSize": 10
+  },
+  "apc.listRow": {
+    "lists": [
+      "explorer-folders-view",
+      "quick-input-list",
+      "results"
+    ],
+    "height": 25,
+    "fontSize": 11
+  },
+  "window.titleBarStyle": "native",
+  "window.customTitleBarVisibility": "never",
+  "workbench.colorTheme": "Nord",
+  "workbench.iconTheme": "eq-material-theme-icons-light",
+  "workbench.tree.renderIndentGuides": "always",
+  // Editor
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.fontSize": 13,
+  "editor.minimap.enabled": false,
+  // Amazon Q
+  "terminal.integrated.env.osx": {
+    "Q_NEW_SESSION": "1"
+  },
+  // Eslint
+  "eslint.format.enable": true,
+}
