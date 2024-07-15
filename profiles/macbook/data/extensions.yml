@@ -6,6 +6,8 @@ enabled:
     uuid: 6f35c257-7fd5-4bc2-9cd1-01976589c17a
   - id: bierner.markdown-preview-github-styles
     uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
+  - id: bradlc.vscode-tailwindcss
+    uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: BrandonKirbyson.vscode-animations
     uuid: 7d7c0d21-6653-4c11-9310-75b7180bbf81
   - id: dbaeumer.vscode-eslint
@@ -18,6 +20,8 @@ enabled:
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: sleistner.vscode-fileutils
     uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
+  - id: Supermaven.supermaven
+    uuid: b16722b2-9d79-4b90-8f9c-d385d23eeeed
   - id: usernamehw.errorlens
     uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
   - id: zokugun.cron-tasks

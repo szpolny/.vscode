@@ -46,6 +46,10 @@
   "editor.tabSize": 2,
   "editor.fontSize": 13,
   "editor.minimap.enabled": false,
+  "editor.accessibilitySupport": "off",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
   // Amazon Q
   "terminal.integrated.env.osx": {
     "Q_NEW_SESSION": "1"
@@ -63,5 +67,4 @@
     "download": "0 * * * *",
     "upload": "0 * * * *"
   },
-  "editor.accessibilitySupport": "off",
 }
