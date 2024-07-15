@@ -12,7 +12,18 @@
         "workbench.files.action.showActiveFileInExplorer",
       ]
     },
-    "when": "!sideBarVisible"
+    "when": "!sideBarVisible && activeEditor"
+  },
+  {
+    "key": "cmd+b",
+    "command": "runCommands",
+    "args": {
+      "commands": [
+        "workbench.action.toggleSidebarVisibility",
+        "workbench.action.focusSideBar"
+      ]
+    },
+    "when": "!sideBarVisible && !activeEditor"
   },
   {
     "key": "enter",
