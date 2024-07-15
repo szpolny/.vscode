@@ -1,7 +1,5 @@
 disabled: []
 enabled:
-  - id: amazonwebservices.codewhisperer-for-command-line-companion
-    uuid: null
   - id: arcticicestudio.nord-visual-studio-code
     uuid: 6f35c257-7fd5-4bc2-9cd1-01976589c17a
   - id: bierner.markdown-preview-github-styles

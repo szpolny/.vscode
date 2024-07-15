@@ -1,12 +1,5 @@
 {
   // UI
-  "apc.electron": {
-    "titleBarStyle": "hidden",
-    "trafficLightPosition": {
-      "x": 15,
-      "y": 15,
-    }
-  },
   "apc.font.family": "JetBrainsMono Nerd Font Mono",
   "apc.monospace.font.family": "JetBrainsMono Nerd Font Mono",
   "apc.activityBar": {
@@ -28,16 +21,10 @@
     "fontSize": 10
   },
   "apc.listRow": {
-    "lists": [
-      "explorer-folders-view",
-      "quick-input-list",
-      "results"
-    ],
+    "lists": ["explorer-folders-view", "quick-input-list", "results"],
     "height": 25,
     "fontSize": 11
   },
-  "window.titleBarStyle": "native",
-  "window.customTitleBarVisibility": "never",
   "workbench.colorTheme": "Nord",
   "workbench.iconTheme": "eq-material-theme-icons-light",
   "workbench.tree.renderIndentGuides": "always",
@@ -66,5 +53,5 @@
     "review": "0 * * * *",
     "download": "0 * * * *",
     "upload": "0 * * * *"
-  },
+  }
 }
