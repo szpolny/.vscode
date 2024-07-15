@@ -4,6 +4,8 @@ enabled:
     uuid: null
   - id: arcticicestudio.nord-visual-studio-code
     uuid: 6f35c257-7fd5-4bc2-9cd1-01976589c17a
+  - id: BrandonKirbyson.vscode-animations
+    uuid: 7d7c0d21-6653-4c11-9310-75b7180bbf81
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: drcika.apc-extension

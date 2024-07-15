@@ -52,4 +52,5 @@
   },
   // Eslint
   "eslint.format.enable": true,
+  "animations.Install-Method": "Apc Customize UI++",
 }
