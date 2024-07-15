@@ -63,4 +63,5 @@
     "download": "0 * * * *",
     "upload": "0 * * * *"
   },
+  "editor.accessibilitySupport": "off",
 }
