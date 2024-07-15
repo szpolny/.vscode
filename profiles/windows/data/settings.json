@@ -1,0 +1,70 @@
+{
+  // UI
+  "apc.electron": {
+    "titleBarStyle": "hidden",
+    "trafficLightPosition": {
+      "x": 15,
+      "y": 15,
+    }
+  },
+  "apc.font.family": "JetBrainsMono Nerd Font Mono",
+  "apc.monospace.font.family": "JetBrainsMono Nerd Font Mono",
+  "apc.activityBar": {
+    "position": "bottom",
+    "size": 30,
+    "itemSize": 30,
+    "itemMargin": 10
+  },
+  "apc.header": {
+    "height": 30
+  },
+  "apc.sidebar.titlebar": {
+    "height": 30,
+    "fontSize": 12
+  },
+  "apc.statusBar": {
+    "position": "editor-bottom",
+    "height": 30,
+    "fontSize": 10
+  },
+  "apc.listRow": {
+    "lists": [
+      "explorer-folders-view",
+      "quick-input-list",
+      "results"
+    ],
+    "height": 25,
+    "fontSize": 11
+  },
+  "window.titleBarStyle": "native",
+  "window.customTitleBarVisibility": "never",
+  "workbench.colorTheme": "Nord",
+  "workbench.iconTheme": "eq-material-theme-icons-light",
+  "workbench.tree.renderIndentGuides": "always",
+  // Editor
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.fontSize": 13,
+  "editor.minimap.enabled": false,
+  "editor.accessibilitySupport": "off",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  // Amazon Q
+  "terminal.integrated.env.osx": {
+    "Q_NEW_SESSION": "1"
+  },
+  // Eslint
+  "eslint.format.enable": true,
+  // Animations
+  "animations.Install-Method": "Apc Customize UI++",
+  "apc.imports": [
+    "file://${userHome}/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+  ],
+  // Setting sync
+  "syncSettings.crons": {
+    "review": "0 * * * *",
+    "download": "0 * * * *",
+    "upload": "0 * * * *"
+  },
+}

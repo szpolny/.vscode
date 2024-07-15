@@ -1,0 +1,30 @@
+disabled: []
+enabled:
+  - id: amazonwebservices.codewhisperer-for-command-line-companion
+    uuid: null
+  - id: arcticicestudio.nord-visual-studio-code
+    uuid: 6f35c257-7fd5-4bc2-9cd1-01976589c17a
+  - id: bierner.markdown-preview-github-styles
+    uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
+  - id: bradlc.vscode-tailwindcss
+    uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
+  - id: BrandonKirbyson.vscode-animations
+    uuid: 7d7c0d21-6653-4c11-9310-75b7180bbf81
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: drcika.apc-extension
+    uuid: c445982f-a615-472b-a90e-0a9edd88b8e8
+  - id: equinusocio.vsc-material-theme-icons
+    uuid: 6959958f-be4d-42c4-8aa4-dc2c2f086b0a
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: sleistner.vscode-fileutils
+    uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
+  - id: Supermaven.supermaven
+    uuid: b16722b2-9d79-4b90-8f9c-d385d23eeeed
+  - id: usernamehw.errorlens
+    uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
+  - id: vscodevim.vim
+    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
