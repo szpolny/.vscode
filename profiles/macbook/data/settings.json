@@ -54,10 +54,13 @@
   "eslint.format.enable": true,
   // Animations
   "animations.Install-Method": "Apc Customize UI++",
+  "apc.imports": [
+    "file://${userHome}/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+  ],
   // Setting sync
   "syncSettings.crons": {
-    "review": "0 * * * *", // every hour
-    "download": "0 * * * *", // at 9AM, every day
-    "upload": "0 * * * *" // at 5PM, every day
-  }
+    "review": "0 * * * *",
+    "download": "0 * * * *",
+    "upload": "0 * * * *"
+  },
 }

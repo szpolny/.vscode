@@ -1,5 +1,5 @@
 BrandonKirbyson.vscode-animations: '{"firstTime":false}'
-drcika.apc-extension: '{"isEnabled":false}'
+drcika.apc-extension: '{"isEnabled":true}'
 workbench.accounts.experimental.showEntitlements: "false"
 workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.extension.learn-vim-container","pinned":true,"visible":false,"order":12},{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":false,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":false,"visible":false,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":10},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"workbench.view.extension.supermaven-chat","pinned":true,"visible":false,"order":13},{"id":"userDataProfiles","pinned":true,"visible":false},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.extension.le\
@@ -27,27 +27,8 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.extension.le\
   jsDebugHasExcludedCallers && debugType ==
   'pwa-node'\"}]},{\"id\":\"workbench.view.extensions\",\"themeIcon\":{\"id\":\
   \"extensions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\":true,\"views\
-  \":[{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchExtensionUpdates ||
-  searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
-  workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
-  && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
-  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
-  en\":\"defaultExtensionViews && hasGallery &&
-  !config.extensions.showRecommendationsOnlyOnDemand &&
-  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"searchMarketplaceExtensions\"},{\"when\
-  \":\"installedExtensions ||
-  searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\":\
-  \"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\"when\
-  \":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensions\"}\
-  ,{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\
-  \"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorksp\
-  aceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"}]},{\"id\":\"wor\
-  kbench.view.remote\",\"themeIcon\":{\"id\":\"remote-explorer-view-icon\"},\"n\
-  ame\":\"Remote
+  \":[]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"remote-explo\
+  rer-view-icon\"},\"name\":\"Remote
   Explorer\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.extensio\
   n.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"isB\
   uiltin\":true,\"views\":[{\"when\":\"testing.providerCount >
@@ -66,22 +47,14 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.extension.le\
   \"id\":\"defaultProfile-icon\"},\"name\":\"Profiles\",\"isBuiltin\":true,\"vi\
   ews\":[]},{\"id\":\"workbench.view.sync\",\"themeIcon\":{\"id\":\"settings-sy\
   nc-view-icon\"},\"name\":\"Settings
-  Sync\",\"isBuiltin\":true,\"views\":[{\"when\":\"enableSyncConflictsView &&
-  hasConflicts\"},{\"when\":\"enableSyncActivityViews &&
-  userDataSyncAccountStatus == 'available' && syncStatus !=
-  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
-  userDataSyncAccountStatus == 'available' && syncStatus !=
-  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
-  userDataSyncAccountStatus == 'available' && syncStatus !=
-  'uninitialized'\"},{\"when\":\"enableSyncActivityViews\"},{\"when\":\"enableS\
-  yncActivityViews\"}]},{\"id\":\"workbench.view.editSessions\",\"themeIcon\":{\
-  \"id\":\"edit-sessions-view-icon\"},\"name\":\"Cloud
+  Sync\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.editSessions\
+  \",\"themeIcon\":{\"id\":\"edit-sessions-view-icon\"},\"name\":\"Cloud
   Changes\",\"isBuiltin\":true,\"views\":[{\"when\":\"editSessionsShowView\"}]}\
   ]"
 workbench.activityBar.location: default
 workbench.auxiliaryBar.size: "256"
 workbench.chat.experimental.showWelcomeView: "false"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["shellscript",true],["scss",true],["css",true],["ignore",true],["javascript",true],["typescript",true],["json",true],["typescriptreact",true],["rust",true],["plaintext",true],["yaml",true],["jsonc",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["shellscript",true],["scss",true],["css",true],["ignore",true],["javascript",true],["typescript",true],["json",true],["typescriptreact",true],["rust",true],["yaml",true],["jsonc",true],["plaintext",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":true,"order":1},{"id":"timeline","isHidden":true,"order":2},{"id":"workbench.explorer.openEditorsView","isHidden":true,"order":0},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false,"order":3},{"id":"npm","isHidden":true,"order":4},{"id":"rustDependencies","isHidden":false},{"id":"github-actions.current-branch","isHidden":false},{"id":"github-actions.workflows","isHidden":false},{"id":"github-actions.settings","isHidden":false},{"id":"github-actions.empty-view","isHidden":false},{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false},{"id":"cloudcode.unified.kubernetes.localDevExplorer","isHidden":false},{"id":"cloudcode.unified.kubectlExplorer","isHidden":false},{"id":"cloudcode.unified.cloudRunExplorer","isHidden":false},{"id":"cloudcode.unified.apiExplorer","isHidden":false},{"id":"cloudcode.unified.secretsExplorer","isHidden":false},{"id":"cloudcode.unified.gceExplorer","isHidden":false},{"id":"cloudcode.unified.apigee.explorer","isHidden":false},{"id":"cloudcode.unified.gcfExplorer","isHidden":false},{"id":"cloudcode.unified.awsLambdaImporterExplorer","isHidden":false},{"id":"cloudcode.unified.cloudStorageExplorer","isHidden":false},{"id":"cloudcode.unified.sourceProtectExplorer","isHidden":false},{"id":"cloudcode.unified.mcdcSources","isHidden":false},{"id":"cloudcode.helpAndFeedbackExplorer","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
