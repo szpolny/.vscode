@@ -14,6 +14,8 @@ enabled:
     uuid: c445982f-a615-472b-a90e-0a9edd88b8e8
   - id: equinusocio.vsc-material-theme-icons
     uuid: 6959958f-be4d-42c4-8aa4-dc2c2f086b0a
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: sleistner.vscode-fileutils
     uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
   - id: usernamehw.errorlens

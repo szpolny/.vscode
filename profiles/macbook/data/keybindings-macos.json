@@ -35,15 +35,5 @@
       ]
     },
     "when": "explorerViewletVisible && filesExplorerFocus"
-  },
-  {
-    "key": "k",
-    "command": "list.focusAnyUp",
-    "when": "sideBarFocus"
-  },
-  {
-    "key": "j",
-    "command": "list.focusAnyDown",
-    "when": "sideBarFocus"
   }
 ]
