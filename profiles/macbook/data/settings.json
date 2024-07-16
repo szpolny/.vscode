@@ -67,4 +67,7 @@
     "download": "0 * * * *",
     "upload": "0 * * * *"
   },
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
 }
