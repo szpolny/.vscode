@@ -18,6 +18,8 @@ enabled:
     uuid: 6959958f-be4d-42c4-8aa4-dc2c2f086b0a
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: formulahendry.auto-rename-tag
+    uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
   - id: Supermaven.supermaven
     uuid: b16722b2-9d79-4b90-8f9c-d385d23eeeed
   - id: usernamehw.errorlens
