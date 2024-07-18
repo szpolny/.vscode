@@ -20,6 +20,8 @@ enabled:
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: formulahendry.auto-rename-tag
     uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
+  - id: github.vscode-github-actions
+    uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
   - id: Supermaven.supermaven
     uuid: b16722b2-9d79-4b90-8f9c-d385d23eeeed
   - id: usernamehw.errorlens
