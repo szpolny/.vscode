@@ -14,6 +14,8 @@ enabled:
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: drcika.apc-extension
     uuid: c445982f-a615-472b-a90e-0a9edd88b8e8
+  - id: dustypomerleau.rust-syntax
+    uuid: 235e8b64-5222-49db-978c-cb45e727cd14
   - id: equinusocio.vsc-material-theme-icons
     uuid: 6959958f-be4d-42c4-8aa4-dc2c2f086b0a
   - id: esbenp.prettier-vscode
@@ -26,6 +28,8 @@ enabled:
     uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
   - id: github.vscode-github-actions
     uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
+  - id: rust-lang.rust-analyzer
+    uuid: 06574cb4-e5dc-4631-8174-a543a4533621
   - id: usernamehw.errorlens
     uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
   - id: zokugun.cron-tasks
